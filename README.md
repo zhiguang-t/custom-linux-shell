@@ -1,2 +1,2 @@
 # custom-linux-shell
-Custom linus shell 
+Custom linux shell 
